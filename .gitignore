@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+.jupyter
+jupyter_execute/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Virtual Environment
+venv/
+env/
+
+# Data files
+*.csv
+*.dat
+*.pkl
+*.npy
+*.h5
+
+# Experiment logs
+logs/
+runs/
+
+# Other
+.cursorrules
